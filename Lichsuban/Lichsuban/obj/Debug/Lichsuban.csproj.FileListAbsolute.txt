@@ -1,0 +1,20 @@
+D:\Baitap\Lichsuban\Lichsuban\bin\Debug\Lichsuban.exe.config
+D:\Baitap\Lichsuban\Lichsuban\bin\Debug\Lichsuban.exe
+D:\Baitap\Lichsuban\Lichsuban\bin\Debug\Lichsuban.pdb
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.AssemblyReference.cache
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.Form1.resources
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.Properties.Resources.resources
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.GenerateResource.cache
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.CoreCompileInputs.cache
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.exe
+D:\Baitap\Lichsuban\Lichsuban\obj\Debug\Lichsuban.pdb
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.AssemblyReference.cache
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.Form1.resources
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.Properties.Resources.resources
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.GenerateResource.cache
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.csproj.CoreCompileInputs.cache
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.exe
+D:\Baitap\Do An\Lichsuban\Lichsuban\obj\Debug\Lichsuban.pdb
+D:\Baitap\Do An\Lichsuban\Lichsuban\bin\Debug\Lichsuban.exe.config
+D:\Baitap\Do An\Lichsuban\Lichsuban\bin\Debug\Lichsuban.exe
+D:\Baitap\Do An\Lichsuban\Lichsuban\bin\Debug\Lichsuban.pdb
