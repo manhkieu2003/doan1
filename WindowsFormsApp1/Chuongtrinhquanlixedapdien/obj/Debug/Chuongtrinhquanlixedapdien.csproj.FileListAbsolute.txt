@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\bin\Debug\Chuongtrinhquanlixedapdien.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\bin\Debug\Chuongtrinhquanlixedapdien.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\bin\Debug\Chuongtrinhquanlixedapdien.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtr.5F8CE0F5.Up2Date
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\Chuongtrinhquanlixedapdien\obj\Debug\Chuongtrinhquanlixedapdien.Form3.resources
