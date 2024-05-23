@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\sanpham\sanpham\bin\Debug\sanpham.exe.config
+C:\Users\Admin\source\repos\sanpham\sanpham\bin\Debug\sanpham.exe
+C:\Users\Admin\source\repos\sanpham\sanpham\bin\Debug\sanpham.pdb
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.Form1.resources
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.Properties.Resources.resources
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.exe
+C:\Users\Admin\source\repos\sanpham\sanpham\obj\Debug\sanpham.pdb
