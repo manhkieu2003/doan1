@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\bin\Debug\qlnhanvien.exe.config
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\bin\Debug\qlnhanvien.exe
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\bin\Debug\qlnhanvien.pdb
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.Form1.resources
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.Properties.Resources.resources
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.exe
+C:\Users\Admin\source\repos\qlnhanvien\qlnhanvien\obj\Debug\qlnhanvien.pdb
